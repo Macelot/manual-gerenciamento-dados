@@ -106,7 +106,7 @@ Utilize `- [ ]` para listas de tarefas:
 - [Blocos de Código](#blocos-de-código)
 - [Citações](#citações)
 - [Tabelas](#tabelas)
-- [Linhas Horizontais](#8. linhas-horizontais)
+- [Linhas Horizontais](#linhas-horizontais)
 - [Checklists](#checklists)
 
 
