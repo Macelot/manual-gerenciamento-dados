@@ -99,14 +99,14 @@ Utilize `- [ ]` para listas de tarefas:
 ```
 
 ## 10. Sumário
-- [Títulos](#títulos)
-- [Texto em Negrito e Itálico](#texto-em-negrito-e-itálico)
-- [Listas](#listas)
-- [Links e Imagens](#links-e-imagens)
-- [Blocos de Código](#blocos-de-código)
-- [Citações](#citações)
-- [Tabelas](#tabelas)
-- [Linhas Horizontais](#linhas-horizontais)
-- [Checklists](#checklists)
+- [Títulos](#1-títulos)
+- [Texto em Negrito e Itálico](#2-texto-em-negrito-e-itálico)
+- [Listas](#3-listas)
+- [Links e Imagens](#4-links-e-imagens)
+- [Blocos de Código](#5-blocos-de-código)
+- [Citações](#6-citações)
+- [Tabelas](#7-tabelas)
+- [Linhas Horizontais](#8-linhas-horizontais)
+- [Checklists](#9-checklists)
 
 
